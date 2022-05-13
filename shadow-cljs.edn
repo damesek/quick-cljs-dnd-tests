@@ -4,7 +4,8 @@
                 "src/test"]
 
  :dependencies [[binaryage/devtools "0.9.10"]
-                [reagent "0.8.1"]]
+                ;[cljs-drag-n-drop "0.1.0"]
+                [reagent "1.0.0"]]
  
  :dev-http {3000 "public"} 
  :builds
