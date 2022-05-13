@@ -6,9 +6,11 @@ pom.xml.asc
 /classes/
 /target/
 /checkouts/
+/node-modules/
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
 .lein-failures
 .nrepl-port
 .cpcache/
+yarn*
