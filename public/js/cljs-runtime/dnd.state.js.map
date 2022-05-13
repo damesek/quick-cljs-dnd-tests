@@ -1,0 +1,1 @@
+{"version":3,"sources":["dnd/state.cljs"],"mappings":";AAGA,GAAA,QAAAA,gCAAAC,sCAAAC;AAAA;AAAA,AAAA,AAASC,sBAAU,gDAAA,2CAAA,uDAAA,lJAACC","names":["js/dnd","js/dnd.state","js/dnd.state.app-state","dnd.state/app-state","reagent.core.atom"],"sourcesContent":["(ns dnd.state\n  (:require [reagent.core :as r]))\n\n(defonce app-state (r/atom {:count 0}))"]}
